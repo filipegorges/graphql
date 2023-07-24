@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "data",
+            "database": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\filipe\\study\\go\\fullcycle\\cmd\\server\\data.db"
+        }
+    ]
+}
